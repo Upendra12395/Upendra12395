@@ -21,6 +21,6 @@
 
 ---
 ### :chart_with_upwards_trend: The STATS 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulraina711&show_icons=true&count_private=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulraina711&theme=highcontrast)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=upendra12395&show_icons=true&count_private=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=upendra12395&theme=highcontrast)
 ---
