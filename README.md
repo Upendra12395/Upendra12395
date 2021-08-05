@@ -22,6 +22,6 @@
 ---
 <h2> My GitHub Stats </h2>
 <p align="left"> <a href="https://github.com/Upendra12395"><img src="https://github-profile-trophy.vercel.app/?username=Upendra12395&theme=onedark" alt="Upendra12395" /></a> </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=upendra12395&show_icons=true&count_private=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=upendra12395&theme=highcontrast)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Upendra12395&show_icons=true&count_private=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Upendra12395&theme=highcontrast)
 ---
