@@ -20,7 +20,10 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 
 ---
-### :chart_with_upwards_trend: The STATS 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=upendra12395&show_icons=true&count_private=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=upendra12395&theme=highcontrast)
+<h2> My GitHub Stats </h2>
+<p align="left"> <a href="https://github.com/Upendra12395"><img src="https://github-profile-trophy.vercel.app/?username=Upendra12395&theme=onedark" alt="Upendra12395" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Upendra12395&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="Upendra12395" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Upendra12395&show_icons=true&count_private=true&&theme=highcontrast)  
+ <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Upendra12395&theme=highcontrast" alt="Upendra12395" /></span>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Upendra12395&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 ---
