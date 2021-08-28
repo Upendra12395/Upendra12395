@@ -24,5 +24,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Upendra12395&show_icons=true&count_private=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Upendra12395&theme=highcontrast)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Upendra12395&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
-<img Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Upendra12395/count.svg)
+ 
 Visitor Count: <img align="center" src="https://profile-counter.glitch.me/Upendra12395/count.svg" alt="Upendra12395" />
